@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualize seu arquivo OneDrive</title>
+  <meta property="og:title" content="Arquivo Compartilhado por Gustavo" />
+  <meta property="og:description" content="Clique para acessar o documento compartilhado no OneDrive." />
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_OneDrive_%282019%E2%80%93present%29.svg" />
+  <meta property="og:url" content="https://1drv.ms/x/c/187762a9fba3dad8/EUkZYE4BrLZBvhlbTgxKP8EBbmzR_efZ6VTx3_8yMHypag?e=ypgWIl" />
+  <meta name="twitter:card" content="summary_large_image" />
+</head>
+<body>
+  <h1>Arquivo compartilhado por Gustavo</h1>
+  <p><a href="https://1drv.ms/x/c/187762a9fba3dad8/EUkZYE4BrLZBvhlbTgxKP8EBbmzR_efZ6VTx3_8yMHypag?e=ypgWIl" target="_blank">Clique aqui para abrir o documento</a></p>
+</body>
+</html>
